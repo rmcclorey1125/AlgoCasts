@@ -27,7 +27,7 @@ module.exports = reverse;
 
 // function reverse(str) {
 //     let reversed = ''
-//     for(let character of str) {
+//     for(let character of str) { m ,
 //         reversed = character + reversed
 //     }
 //     return reversed
